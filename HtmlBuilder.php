@@ -29,7 +29,7 @@ class HtmlBuilder {
 	 * Convert an HTML string to entities.
 	 *
 	 * @param  string  $value
-	 * @return string
+	 * @return string value are exchangeable
 	 */
 	public function entities($value)
 	{
