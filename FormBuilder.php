@@ -44,7 +44,7 @@ class FormBuilder {
 	protected $model;
 
 	/**
-	 * An array of label names we've created.
+	 * An array of label names we've created. Social Shout
 	 *
 	 * @var array
 	 */
